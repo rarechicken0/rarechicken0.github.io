@@ -4,7 +4,7 @@ window.RC_CONFIG = {
   siteUrl: "https://rarechicken0.github.io",
 
   // Email Google របស់ Owner (អ្នកដែលអាចបង្ហោះ/កែ/លុប Mod)។ ត្រូវដូចគ្នានឹងក្នុង firestore.rules និង storage.rules
-  ownerEmails: ["rathachanna58@gmail.com"],
+  ownerEmails: ["redchicken010@gmail.com"],
 
   // Admin ដំបូង (ត្រូវបានបញ្ចូលក្នុងប្រព័ន្ធម្តងគត់ ពេល Owner ចូលគណនីលើកដំបូង)។ ក្រោយមក Owner គ្រប់គ្រងតាមប៊ូតុង “Admin” លើគេហទំព័រ។
   adminEmails: ["buntphon0@gmail.com", "rathachanna49@gmail.com"],
